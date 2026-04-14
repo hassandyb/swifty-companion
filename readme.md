@@ -1,6 +1,6 @@
 # Swifty Companion
 
-This is a **42 Network** project. Swifty Companion is a mobile application built with React Native and Expo that allows you to search for 42 students and view their profiles, skills, and projects using the 42 API.
+This is a **42 Network** project. Swifty Companion is a mobile application built with React Native and Expo that allows you to search for 42 Profiles and view their profiles, skills, and projects using the 42 API.
 
 ## Prerequisites
 
